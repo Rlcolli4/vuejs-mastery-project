@@ -7,8 +7,6 @@ It is not complete, and it was only made for personal learning purposes. This pr
 
 * **Robert L Collins Jr** - *Initial work* - [Rlcolli4](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## Acknowledgments
 
 * Image credits can be found inside `assets/image-credits.txt`
